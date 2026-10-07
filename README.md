@@ -22,5 +22,8 @@ In your solution you must provide the following in your Github link account:
  * UML Class Diagram
  * Uploaded java codes for the solution.
 
-Upload your GitHub Solution link here.
+# UML Diagram
+<img width="1300" height="993" alt="Blank diagram (3)" src="https://github.com/user-attachments/assets/e166c192-07e9-46bf-85ba-f294d8f61334" />
+
+
 
